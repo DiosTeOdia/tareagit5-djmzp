@@ -19,3 +19,6 @@
 
 **Pull Request aceptado**   
 ![8](img/8.PNG)   
+
+**Tagging un commit**   
+![9](img/9.PNG)
