@@ -22,3 +22,9 @@
 
 **Tagging un commit**   
 ![9](img/9.PNG)
+
+**Pushing un tag**   
+![10](img/10.PNG)   
+
+**Clonando un tag**   
+![11](img/11.PNG)  
